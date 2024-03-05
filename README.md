@@ -1,16 +1,38 @@
-### Hi there 👋
+label
+Hi 👋, I'm Saurabh Sonvane
+A passionate Software Developer from India
+coding
+-----  -----
+s17200
 
-<!--
-**kaustubhgadakh/kaustubhgadakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on Placeprep.com
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Full Stack Web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about java,DSA,javascript,css,react
+
+📫 How to reach me sonvanesaurabh7@gmail.com
+
+📄 Check Resume
+
+📄 Know more about me and my work Portfolio
+
+
+
+🏆:Trophies:
+s17200
+
+
+
+🔍:Connect with me:
+linkedin.com/in/saurabh-sonvane-64106017b saurabh#7095
+
+
+
+Languages and Tools:
+arduino aws bash c cplusplus css3 express git html5 java javascript mongodb nodejs python react spring
+
+
+
+📊 My Github Stats
+saurabh's GitHub stats	saurabh's GitHub Streak
