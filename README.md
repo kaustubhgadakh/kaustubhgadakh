@@ -56,13 +56,18 @@
 </div>
 
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<h2 align='center'>📊 My Github Stats</h2>
+<div>
+  <h2 align='center'>📊 My Github Stats</h2>
+  <div align="center" style="display: flex; flex-wrap: nowrap;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaustubhgadakh&theme=monokai" alt="Kaustubh"/>
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhgadakh&hide_progress=true) 
+  </div>
+  
+  ![Kaustubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaustubhgadakh&show_icons=true&locale=en&theme=tokyonight) | ![Kaustubh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaustubhgadakh&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22) |
+  | :---: | :---: |
 
-
- ![saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=s17200&show_icons=true&locale=en&theme=tokyonight) | ![saurabh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=s17200&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22) |
-| :---: | :---: |
+</div>
 
 <div align='center'>
   <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
