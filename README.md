@@ -19,11 +19,11 @@
   -  📃 Know about my experiences <a href="https://drive.google.com/file/d/1ehXP5ej86pse5qwZGSLXWrxdMK_rh4hn/view?usp=sharing"> Resume </a>
   
   -  📫 How to reach me kaustubhgadakh@gmail.com
+  <br>
 </div>
 
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<br>
 <div>
   <h2>🌐 Socials</h2>
 
@@ -57,12 +57,11 @@
   <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=blue&logo=Git&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />&nbsp;&nbsp; 
-  
+  <br>
 </div>
 
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<br>
 <div>
   <h2>📊 My Github Stats</h2><br>
   <div align="center" style="display: flex; flex-wrap: nowrap;">
