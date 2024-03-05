@@ -20,16 +20,16 @@
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <div>
- 
-  ## 🌐 Socials:
+  <h2>🌐 Socials</h2>
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubhgadakh/)&nbsp;
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kaustubhgadakh/)&nbsp;
   [![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?logo=Portfolio&logoColor=white)](https://kaustubhgadakh-portfolio.netlify.app/)&nbsp;
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](/)&nbsp;
   
   <hr/>
-  
-  ## 💻 Tech Stack :
+  <h2>💻 Tech Stack </h2>
+
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;&nbsp;
@@ -42,8 +42,8 @@
   ![Hibernate](https://img.shields.io/badge/hibernate-bcae79?style=for-the-badge&logo=hibernate&logoColor=white)&nbsp;&nbsp;
   
   <hr/>
-  
-  ## 🛠️ Tools:
+  <h2>🛠️ Tools</h2>
+    
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>&nbsp;&nbsp;
@@ -58,10 +58,9 @@
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <div>
-  <h2 align='center'>📊 My Github Stats</h2>
+  <h2>📊 My Github Stats</h2><br>
   <div align="center" style="display: flex; flex-wrap: nowrap;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaustubhgadakh&theme=monokai" alt="Kaustubh"/>
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhgadakh&hide_progress=true) 
   </div>
   
   ![Kaustubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaustubhgadakh&show_icons=true&locale=en&theme=tokyonight) | ![Kaustubh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaustubhgadakh&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22) |
