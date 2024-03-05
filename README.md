@@ -3,23 +3,27 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Gadakh</h1>
 
 <div display="flex" width="100%">
-  <div align="left" width="150"> ----- <a href="#"><img src="https://ugokawaii.com/wp-content/uploads/2022/08/increase.gif" width="30" /></a> ----- </div>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=s17200&label=Profile%20views&color=0e75b6&style=flat" alt="s17200" /> </p>
+  <div align="left" width="150"> ----- <a href="#"><img src="https://ugokawaii.com/wp-content/uploads/2022/08/increase.gif" width="40" /></a> ----- </div>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=s17200&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubh" /> </p>
 
   <h1>💫 About Me:</h1>
 
   -  👋 Hi, I’m @kaustubhgadakh
-  -  🌱 I’m currently learning FULL STACK JAVA
-  -  👨‍💻 All my projects are available in the <a href="https://github.com/kaustubhgadakh?tab=repositories">Click Here</a>
-  -  💬 Ask me about HTML, CSS, JavaScript, Tailwind CSS, React, SQL, C++, Java ,Git/GitHub
-  -  📃 Know about my experiences <a href="https://drive.google.com/file/d/1ehXP5ej86pse5qwZGSLXWrxdMK_rh4hn/view?usp=sharing"> Resume </a>
-  -  📫 How to reach me kaustubhgadakh@gmail.com
-
   
+  -  🌱 I’m currently learning FULL STACK JAVA
+    
+  -  👨‍💻 All my projects are available in the <a href="https://github.com/kaustubhgadakh?tab=repositories">Click Here</a>
+  
+  -  💬 Ask me about HTML, CSS, JavaScript, Tailwind CSS, React, SQL, C++, Java ,Git/GitHub
+    
+  -  📃 Know about my experiences <a href="https://drive.google.com/file/d/1ehXP5ej86pse5qwZGSLXWrxdMK_rh4hn/view?usp=sharing"> Resume </a>
+  
+  -  📫 How to reach me kaustubhgadakh@gmail.com
 </div>
 
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
+<br>
 <div>
   <h2>🌐 Socials</h2>
 
@@ -58,6 +62,7 @@
 
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
+<br>
 <div>
   <h2>📊 My Github Stats</h2><br>
   <div align="center" style="display: flex; flex-wrap: nowrap;">
