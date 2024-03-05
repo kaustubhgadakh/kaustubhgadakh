@@ -10,10 +10,11 @@
 
   -  👋 Hi, I’m @kaustubhgadakh
   -  🌱 I’m currently learning FULL STACK JAVA
-  -  💻 All of my projects are available at  https://github.com/kaustubhgadakh
+  -  👨‍💻 All my projects are available in the <a href="https://github.com/kaustubhgadakh?tab=repositories">Click Here</a>
   -  💬 Ask me about HTML, CSS, JavaScript, Tailwind CSS, React, SQL, C++, Java ,Git/GitHub
+  -  📃 Know about my experiences <a href="https://drive.google.com/file/d/1ehXP5ej86pse5qwZGSLXWrxdMK_rh4hn/view?usp=sharing"> Resume </a>
   -  📫 How to reach me kaustubhgadakh@gmail.com
-  -  📃 Resume - <a href="https://drive.google.com/file/d/1ehXP5ej86pse5qwZGSLXWrxdMK_rh4hn/view?usp=sharing">Click Here</a>
+
   
 </div>
 
