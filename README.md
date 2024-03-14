@@ -8,7 +8,7 @@
 
   <h1>💫 About Me:</h1>
 
-  -  👋 Hi, I’m @kaustubhgadakh
+  -  👋 Hi, I’m <b>@kaustubhgadakh</b>
   
   -  🌱 I’m currently learning FULL STACK JAVA
     
