@@ -10,7 +10,7 @@
 
   -  👋 Hi, I’m <b>@kaustubhgadakh</b>
   
-  -  🌱 I’m currently learning FULL STACK JAVA
+  -  🌱 I’m currently learning <b>FULL STACK JAVA</b>
     
   -  👨‍💻 All my projects are available in the <a href="https://github.com/kaustubhgadakh?tab=repositories">Click Here</a>
   
